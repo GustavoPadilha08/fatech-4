@@ -31,6 +31,7 @@ section{
 
 section.login{
 	background-color: #F4F4F4;
+	margin-top: 55px;
 }
 	
 .login input{
@@ -41,4 +42,22 @@ section.login{
 	margin: 10px;
 }
 	
+.menu{
+	background-color: #323232;
+	height: 100vh;
+	float: left;
+	width: 200px;
+}
+
+.menu a{
+	color: #fff;
+	text-decoration: none;	
+}
+
+.menu li{
+	background-color: #5A5A5A;
+	margin: 5px;
+	padding: 10px;
+	
+}
 
